@@ -1,0 +1,17 @@
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\bin\Debug\netcoreapp3.1\ConsoleAPITest.exe
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\bin\Debug\netcoreapp3.1\ConsoleAPITest.deps.json
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\bin\Debug\netcoreapp3.1\ConsoleAPITest.runtimeconfig.json
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\bin\Debug\netcoreapp3.1\ConsoleAPITest.runtimeconfig.dev.json
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\bin\Debug\netcoreapp3.1\ConsoleAPITest.dll
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\bin\Debug\netcoreapp3.1\ConsoleAPITest.pdb
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\obj\Debug\netcoreapp3.1\ConsoleAPITest.csprojAssemblyReference.cache
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\obj\Debug\netcoreapp3.1\ConsoleAPITest.AssemblyInfoInputs.cache
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\obj\Debug\netcoreapp3.1\ConsoleAPITest.AssemblyInfo.cs
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\obj\Debug\netcoreapp3.1\ConsoleAPITest.csproj.CoreCompileInputs.cache
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\obj\Debug\netcoreapp3.1\ConsoleAPITest.csproj.CopyComplete
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\obj\Debug\netcoreapp3.1\ConsoleAPITest.dll
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\obj\Debug\netcoreapp3.1\ConsoleAPITest.pdb
+C:\Users\mking10\dev\Week 13\ConsoleAPITest\obj\Debug\netcoreapp3.1\ConsoleAPITest.genruntimeconfig.cache

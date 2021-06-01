@@ -1,0 +1,22 @@
+﻿@model CardSet
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<h1>Results</h1>
+Deck Id: @Model.deck_id
+<br /><br/>
+Remaining: @Model.remaining
+<br /><br/>
+@foreach (Card ca in Model.cards)
+{
+    <div>Suit: @ca.suit</div>
+    <div>Value: @ca.value</div>
+    <img src="@ca.image" />
+    <br /><br/>
+   
+}

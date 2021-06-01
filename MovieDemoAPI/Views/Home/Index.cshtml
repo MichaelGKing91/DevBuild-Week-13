@@ -1,0 +1,17 @@
+﻿@model Movie
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<h1>@Model.original_title</h1>
+@Model.imdb_id
+<br />
+@Model.poster_path
+<br />
+<a href="https://www.imdb.com/title/@(Model.imdb_id)">IMDB Page</a><br/>
+<img src="https://image.tmdb.org/t/p/w500@(Model.poster_path)" />

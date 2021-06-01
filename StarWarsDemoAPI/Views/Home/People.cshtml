@@ -1,0 +1,14 @@
+﻿@model People
+@{
+    ViewData["Title"] = "People";
+}
+
+<h1>@Model.name</h1>
+Height: @Model.height
+<br />
+Films:
+<br />
+@foreach (string name in Model.films)
+{
+    <a href='/home/films/@name.Replace("http://swapi.dev/api/films/", "")'>@name</a><br />
+}

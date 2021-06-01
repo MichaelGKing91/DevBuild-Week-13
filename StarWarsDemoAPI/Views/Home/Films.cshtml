@@ -1,0 +1,12 @@
+﻿@model Films
+@{
+    ViewData["Title"] = "Films";
+}
+
+<h1>@Model.title</h1>
+Director: @Model.director<br/>
+Characters:<br/>
+@foreach (string character in Model.characters)
+{
+    @character<br/>
+}
